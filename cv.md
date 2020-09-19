@@ -14,7 +14,7 @@ I would like to learn new technologies and to try to improve my JS programming s
 
 Skills
 ---------
-Linux, Conteinerization, K8s, Openshift, Git, Python, JS (will be soon:) ), CI/CD, etc.
+Linux, Conteinerization, K8s, Openshift, Git, Python, JS (will be soon:) ), CI/CD, GCP, etc.
 
 Experience
 ---------
