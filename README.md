@@ -1,1 +1,1 @@
-# rsschool-cv
+https://VadimusLitovus.github.io/rsschool-cv/cv
